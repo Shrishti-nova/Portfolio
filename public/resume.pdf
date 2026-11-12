@@ -1,0 +1,150 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R /F3 7 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 3579 >>
+stream
+BT
+/F1 18 Tf
+50 780 Td
+(SHRUSHTI ITGAMPALLI) Tj
+/F2 10 Tf
+0 -18 Td
+(Cybersecurity Engineering Student | Aspiring Security Analyst | Technology Enthusiast) Tj
+/F3 8.5 Tf
+0 -14 Td
+(Email: shrishtiitgampalli@gmail.com  |  GitHub: https://github.com/Shrishti-nova) Tj
+/F3 8.5 Tf
+0 -12 Td
+(LinkedIn: https://www.linkedin.com/in/shrishti-itgampalli-669bb144a/  |  Bidar, Karnataka, India) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Guru Nanak Dev Engineering College, Bidar, Karnataka) Tj
+/F2 11 Tf
+0 -14 Td
+(---------------------------------------------------------------------------------------------------------------------) Tj
+/F2 10 Tf
+0 -16 Td
+(PROFESSIONAL OBJECTIVE) Tj
+/F3 8.5 Tf
+0 -14 Td
+("Exploring Cybersecurity, AI, IoT and Blockchain to Build a Smarter and Safer Digital Future.") Tj
+/F3 8.5 Tf
+0 -12 Td
+(Passionate Computer Science Engineering student specializing in Cybersecurity at GNDEC Bidar, dedicated to) Tj
+/F3 8.5 Tf
+0 -12 Td
+(understanding digital system architectures, uncovering vulnerabilities, and building robust, defensive solutions.) Tj
+/F2 10 Tf
+0 -20 Td
+(EDUCATION) Tj
+/F2 9 Tf
+0 -14 Td
+(Guru Nanak Dev Engineering College, Bidar, Karnataka) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Degree: Bachelor of Engineering \(B.E.\) in Computer Science Engineering - Cybersecurity) Tj
+/F3 8.5 Tf
+0 -11 Td
+(Academic Duration: 2023 - 2027 \(Undergraduate\)) Tj
+/F3 8.5 Tf
+0 -11 Td
+(Relevant Coursework: Cybersecurity Fundamentals, Computer Networks, Operating Systems, Data Structures, DBMS, OOP) Tj
+/F2 10 Tf
+0 -20 Td
+(TECHNICAL SKILLS) Tj
+/F3 8.5 Tf
+0 -14 Td
+(Programming Languages: C, Python, JavaScript) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Web Development: HTML, CSS, JavaScript \(Client-side logic and interface design\)) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Cybersecurity: Cybersecurity Fundamentals, Network Security Fundamentals, Ethical Hacking Concepts, Information Security) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Tools and Environments: Git, GitHub, Linux \(Command line and permissions\), VS Code) Tj
+/F3 8.5 Tf
+0 -12 Td
+(Emerging Technologies: Artificial Intelligence \(AI\), Machine Learning \(ML\), Internet of Things \(IoT\), Blockchain) Tj
+/F2 10 Tf
+0 -20 Td
+(PROPOSED INNOVATIONS AND RESEARCH PROJECTS \(PLANNED / IN DESIGN\)) Tj
+/F2 8.5 Tf
+0 -13 Td
+(1. AI-Based Phishing Detection System) Tj
+/F3 8 Tf
+0 -10 Td
+(   Machine Learning model analyzing suspicious emails, redirect chains, and domain spoofing in real time.) Tj
+/F2 8.5 Tf
+0 -12 Td
+(2. IoT-Based Smart Security System) Tj
+/F3 8 Tf
+0 -10 Td
+(   Physical and digital intrusion monitoring combining microcontrollers, encrypted sensor feeds, and secure MQTT.) Tj
+/F2 8.5 Tf
+0 -12 Td
+(3. Blockchain-Based Secure Document Verification) Tj
+/F3 8 Tf
+0 -10 Td
+(   Decentralized academic credential audit platform utilizing SHA-256 cryptographic hashing and immutable ledgers.) Tj
+/F2 8.5 Tf
+0 -12 Td
+(4. Password Strength Analyzer) Tj
+/F3 8 Tf
+0 -10 Td
+(   Cryptographic entropy evaluation tool assessing passphrase resilience against dictionary attacks and NIST metrics.) Tj
+/F2 8.5 Tf
+0 -12 Td
+(5. Network Traffic Analysis Dashboard) Tj
+/F3 8 Tf
+0 -10 Td
+(   Live packet telemetry inspection engine monitoring protocols \(TCP/UDP/ICMP\) and reconnaissance port sweep scans.) Tj
+/F2 8.5 Tf
+0 -12 Td
+(6. Secure Login Authentication System) Tj
+/F3 8 Tf
+0 -10 Td
+(   Hardened auth service featuring salted bcrypt password hashing, TOTP Two-Factor Authentication, and rate limiting.) Tj
+/F2 10 Tf
+0 -18 Td
+(LEARNING JOURNEY) Tj
+/F3 8.5 Tf
+0 -13 Td
+(Active Specialization Tracks: C, Python, Cybersecurity Fundamentals, Linux, Computer Networks, AI, IoT, Blockchain) Tj
+ET
+
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000257 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+0000000000 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+500
+%%EOF
